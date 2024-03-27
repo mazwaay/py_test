@@ -14,5 +14,4 @@ driver.get("https://stage.mobipaid.com/en/register")
 print("Page title is:" + driver.title)
 
 time.sleep (5)
-
 driver.quit()
